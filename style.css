@@ -6,7 +6,6 @@ body{
     margin: 0;
     font-family: Roboto;
     max-height: 200vh;
-    background-color: red;
     display: grid;
     grid-template-columns: 300px repeat(9, 1fr);
     grid-template-rows:130px repeat(9, 1fr);
@@ -250,3 +249,15 @@ p{
     margin: 0;
     color: #4b4949;
 }
+a:link { 
+    text-decoration: none; 
+  } 
+  a:visited { 
+    text-decoration: none; 
+  } 
+  a:hover { 
+    text-decoration: none; 
+  } 
+  a:active { 
+    text-decoration: none; 
+  }
